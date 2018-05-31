@@ -5,7 +5,6 @@ from PIL import Image
 import numpy as np
 import flask
 from flask import render_template, redirect
-from flask_bootstrap import Bootstrap
 from flask import request, url_for, render_template, redirect
 import io
 import tensorflow as tf

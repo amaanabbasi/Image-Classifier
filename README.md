@@ -1,4 +1,4 @@
-# A Simple Keras + deep learning REST API
+# A Simple Keras + deep learning REST API (Flask)
 This is a image classifier, detailed description of the model is available [here](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html) 
 
 ## Install

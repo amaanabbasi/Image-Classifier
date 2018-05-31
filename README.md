@@ -2,7 +2,7 @@
 This is a image classifier, made with flask and keras. detailed description of the model is available [here](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html) 
 
 ## Install
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## Run
 `python app.py`

@@ -1,5 +1,5 @@
 # Image-Classifier
-This is a image classifier, it run in browser
+This is a image classifier, made with flask and keras.
 
 ## Install
 `pip install requirements.txt`

@@ -1,5 +1,5 @@
 # A Simple Keras + deep learning REST API (Flask)
-This is a image classifier, It is built in flask, It all you have to do is upload a picture and it will give you 5 predictions based on the picture. More details about the moel can be find [here](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html) 
+This is a image classifier, It uses the pretrained Neural Network [ResNet50](https://keras.io/applications/#resnet50).More details about the model [here](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html).
 
 ## Getting started
 * clone the repository.
